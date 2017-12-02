@@ -1,0 +1,162 @@
+/** Add css rules here for your application. */
+
+/** Example rules used by the template application (remove for your app) */
+
+h1 {
+    font-size: 4em;
+    font-family: Didot;
+    margin-left: 50px;
+    text-align: left;
+}
+
+.sendButton {
+    display: block;
+    font-size: 16pt;
+}
+
+div#head {
+    background: black;
+    padding-top: 20px;
+}
+
+#cwMenuBar {
+    background: black;
+    color: white;
+}
+
+#table1 {
+    padding-top: 30px;
+}
+
+.audiomenu {
+    color: white;
+    font-family: Didot;
+    font-size: 100px;
+    padding-left: 166px;
+    padding-right: 100px;
+}
+
+.gwt-MenuItem-Separator {
+    padding-right: 100px;
+}
+
+#suggestPanel {
+    padding-left: 100px;
+}
+
+.gwt-TextAreaMyArea {
+    border: hidden;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.gwt-TextAreaMyAreaPrice {
+    border: hidden;
+    margin-top: -50px;
+    font-size: 15px;
+}
+
+.gwt-MyLabel {
+    font-size: 23px;
+}
+
+.gwt-Label {
+    padding-top: 10px;
+    margin-right: 50px;
+    font-weight: bold;
+}
+
+.gwt-MyLabel2 {
+    font-size: 30px;
+    margin-top: -25px;
+}
+
+.gwt-MyLabel3 {
+    font-size: 20px;
+}
+
+.gwt-MyLabel4 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.gwt-MyLabelAuthor {
+    font-size: 13px;
+}
+
+.gwt-MyLabelStandAlone {
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: -30px;
+}
+
+.gwt-style{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: -30px;
+}
+
+.gwt-MyLabelStandAloneReviews{
+    font-size: 25px;
+    margin-top: -100px;
+    margin-left: 30px;
+
+}
+
+.gwt-LabelNarratorStandAlone {
+    margin-left: 30px;
+}
+
+.gwt-MyLabelAuthorStandAlone {
+    margin-left: 30px;
+    text-decoration: underline;
+    margin-top: -10px;
+    margin-bottom: 10px;
+
+}
+
+.gwt-TextAreaMyAreaPriceStandAlone {
+    border: hidden;
+    margin-top: -70px;
+    font-size: 20px;
+}
+
+.gwt-TextAreaMyAreaStandAlone {
+    border: hidden;
+    font-size: 20px;
+}
+
+.gwt-MyLabelList {
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.gwt-PurchaseButton {
+    margin-top: -200px;
+}
+
+.gwt-authDesc {
+    font-size: 17px;
+    font-style: italic;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+    width: 400px;
+}
+
+.dialogVPanel {
+    width: 300px;
+}
+
+.serverResponseLabelError {
+    color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+    margin: 15px 6px 6px;
+}
+
+

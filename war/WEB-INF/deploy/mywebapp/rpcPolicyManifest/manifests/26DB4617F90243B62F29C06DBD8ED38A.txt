@@ -1,0 +1,2 @@
+serviceClass: com.mycompany.mywebapp.client.AddToDatabases
+path: 6713D10CF7FCC0B6FE97BDCA894A221F.gwt.rpc

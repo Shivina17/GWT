@@ -1,0 +1,2 @@
+serviceClass: com.mycompany.mywebapp.client.AllAudiobooksService
+path: 593BEC38565F68F6EC20A02A9F4EA126.gwt.rpc

@@ -1,0 +1,4 @@
+# Module mywebapp
+# RPC service class, partial path of RPC policy file
+com.mycompany.mywebapp.client.AddToDatabases, 6713D10CF7FCC0B6FE97BDCA894A221F.gwt.rpc
+com.mycompany.mywebapp.client.AllAudiobooksService, 593BEC38565F68F6EC20A02A9F4EA126.gwt.rpc
